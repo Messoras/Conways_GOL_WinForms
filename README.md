@@ -7,7 +7,8 @@ A real-time, interactive simulation of **Conway's Game of Life**, built with Win
 - ⚙️ **Toroid Field**: Customizable wrap-around (toroidal) simulation grid  
 - 🧩 **Interactive Tools**: Create, modify, and paste your own structures directly into the simulation  
 - 📚 **Built-in Examples**: Includes basic and classic Game of Life structures  
-- 🎮 **Real-Time Control**: Pause, step, or run the simulation at adjustable speeds  
+- 🎮 **Real-Time Control**: Pause, step, or run the simulation at adjustable speeds
+- 🐕 **Daisy**: My dog, obviously the best and most important feature of the program
 
 ## Installation & Usage
 1. **Unpack** the provided ZIP archive.  
